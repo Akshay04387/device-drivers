@@ -237,4 +237,4 @@ static void device_exit(void){
 module_init(device_init);
 module_exit(device_exit);
 MODULE_LICENSE("GPL v2");
-MODULE_AUTHOR("Akshay Ramteke");
+MODULE_AUTHOR("Akshay Ramteke<akid04387@gmail.com>");
